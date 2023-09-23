@@ -35,7 +35,7 @@ function calculate() {
     	  var dose_per_kg = parseFloat(medicine.dose_per_kg);
         var concentration = parseFloat(medicine.concentration);
         
-        result.textContent = dose_per_kg * patient_weight / concentration;
+        result.textContent = (dose_per_kg * patient_weight / concentration).toFixed(2);
     }
   }
 }
