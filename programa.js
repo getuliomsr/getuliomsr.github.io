@@ -13,6 +13,18 @@ var medicines = [{
   name: "Propofol",
   dose_per_kg: 1.5,
   concentration: 10
+},{
+  name: "Succinilcolina",
+  dose_per_kg: 1.5,
+  concentration: 10
+},{
+  name: "Ketamina",
+  dose_per_kg: 1.5,
+  concentration: 50
+},{
+  name: "Fentanil",
+  dose_per_kg: 3,
+  concentration: 50
 }
 ];
 
