@@ -2,27 +2,27 @@ var medicine_select = document.getElementById("medicines");
 var result = document.getElementById("result");
 
 var medicines = [{
-  name: "Etomidato",
+  name: "Etomidato 2 mg/mL",
   dose_per_kg: 0.3,
   concentration: 2
 },{
-  name: "Midazolam",
+  name: "Midazolam 5 mg/mL",
   dose_per_kg: 0.2,
   concentration: 5
 },{
-  name: "Propofol",
+  name: "Propofol 1%",
   dose_per_kg: 1.5,
   concentration: 10
 },{
-  name: "Succinilcolina",
+  name: "Succinilcolina 10 mg/mL",
   dose_per_kg: 1.5,
   concentration: 10
 },{
-  name: "Ketamina",
+  name: "Ketamina 50 mg/mL",
   dose_per_kg: 1.5,
   concentration: 50
 },{
-  name: "Fentanil",
+  name: "Fentanil 50 mcg/mL",
   dose_per_kg: 3,
   concentration: 50
 }
